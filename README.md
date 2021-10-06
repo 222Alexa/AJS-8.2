@@ -31,3 +31,7 @@
 ----
 
 ### Map
+
+[![Build status](https://ci.appveyor.com/api/projects/status/9mcd8m4ax8w3wcwp/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-8-2-q4tmg/branch/main)
+
+---
